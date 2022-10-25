@@ -1,0 +1,2 @@
+- JavaScript Syntax: Functions - Rock, Paper, or Scissors - codecademy.com
+- JavaScript training
